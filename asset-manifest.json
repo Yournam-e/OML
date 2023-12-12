@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OML/static/css/main.165909a1.css",
+    "main.js": "/OML/static/js/main.ed8077db.js",
+    "static/js/787.cf1b1541.chunk.js": "/OML/static/js/787.cf1b1541.chunk.js",
+    "index.html": "/OML/index.html",
+    "main.165909a1.css.map": "/OML/static/css/main.165909a1.css.map",
+    "main.ed8077db.js.map": "/OML/static/js/main.ed8077db.js.map",
+    "787.cf1b1541.chunk.js.map": "/OML/static/js/787.cf1b1541.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.165909a1.css",
+    "static/js/main.ed8077db.js"
+  ]
+}
